@@ -1,0 +1,68 @@
+#header {
+	font-size:3em;
+	font-family:Copperplate, "Copperplate Gothic Light", fantasy; serif;
+	text-align: right;
+	padding: 2em;
+	background-color:#386ec4;
+	background-size: 1152px 200px;
+	margin: auto;
+}
+#intro {
+	font-size:1.5em;
+	margin: 0px 100px 0px 100px;
+	font-family:Georgia, serif;
+	padding: 6em;
+}
+#intro a {
+	text-decoration:none;;
+	color:blue;
+	font-size: 1em;
+}
+h2 {
+	font-size: 16px;
+	font-family:Arial;
+	padding: 16px;
+	text-align: center;
+	color:#386ec4;
+}
+body {
+	border: 1000px solid black;
+	text-align: center;
+	margin:0;
+	padding:0;
+	
+}
+.summary {
+	font-size: 1.5em;
+	margin: 0px 200px 0px 200px;
+	padding: 2em;
+	font-family:Georgia, serif;
+	
+}
+#Freddie {
+	border: 6px solid #09c1ef;
+	border-radius:50%;
+	margin-right:700px;
+}
+.left {
+	border: 6px solid #ea4454;
+	border-radius:50%;
+	margin-left: 700px;
+}
+.right {
+	border: 6px solid #ea4454;
+	border-radius:50%;
+	margin-right:700px;
+}
+footer {
+	background-color:#386ec4;
+}
+#summary2 {
+background-color:#386ec4;
+padding:6em;
+text-align: left;
+font-family;	
+}
+
+
+
